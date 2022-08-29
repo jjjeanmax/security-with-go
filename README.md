@@ -1,6 +1,6 @@
 # security-with-go
 
-# Requirements:
+## Requirements:
 >Golang,gopacket and net.
 
 ## Functionality:
@@ -18,7 +18,9 @@
 4. Start server:
 
     `go run some_go_file.go`
+    
     `go build some_go_file.go`
+    
     `./some_go_binary_file.go`
     
     
