@@ -4,7 +4,7 @@
 >Golang,gopacket and net.
 
 ## Functionality:
-- scan for open ports.
+- scan  open ports.
 - Sniffing Traffic
 - Read Pcap packet
 
