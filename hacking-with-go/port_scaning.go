@@ -8,7 +8,6 @@ import (
 	"time"
 )
 
-// var ipToScan = "127.0.0.1"
 var minPort = 1
 var maxPort = 1024
 

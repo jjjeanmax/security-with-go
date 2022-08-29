@@ -13,7 +13,6 @@ import (
 )
 
 var (
-	deviceName        = "lo" // eth0 ...
 	snapshotLen int32 = 1024
 	promiscuous       = false
 	err         error
